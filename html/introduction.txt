@@ -38,3 +38,10 @@ Ans. The <hr> tag defines a thematic break in an HTML page (e.g. a shift of topi
 
 9. What is HTML Image Tag?
 Ans. The <img> tag defines an image in an HTML page. The <img> tag has two required attributes: src and alt.
+
+10. What is HTML Anchor Tag?
+Ans. The <a> tag defines a hyperlink, which is used to link from one page to another. The most important attribute of the <a> element is the href attribute, which indicates the link's destination. By default,
+   links will appear as follows in all browsers:
+      1. An unvisited link is underlined and blue
+      2. A visited link is underlined and purple
+      3. An active link is underlined and red
