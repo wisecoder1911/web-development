@@ -18,4 +18,10 @@ Ans. 1. Headings (h1, h2, h3, h4, h5, h6)
      8. Super Script (sup)
      9. Break (br)
      10. Non-Breaking Space (&nbsp)
-     11. Font Tag (Color(any color), Size(1-7), Face(font style))
+     11. Font Tag (Color(any color), Size(1-7), Face(font style)).
+
+5. HTML Listing Tags?
+Ans. 1. Unordered List (UL)
+        types of UL : disc , circle, square, none
+     2. Ordered List (OL)
+        types of OL : 1, A, a, I, i
