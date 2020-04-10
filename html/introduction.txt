@@ -1,0 +1,8 @@
+1. Full form of HTML?
+Ans. HyperText Markup Language.
+
+2. Why to Learn HTML?
+Ans. Website/ Web Pages, Career as a Web Designer, Mobile Application Development(PhoneGap/Ionic).
+
+3. Which version? HTML or HTML5?
+Ans. HTML5 is the latest version of HTML.
