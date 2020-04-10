@@ -28,4 +28,10 @@ Ans. 1. Unordered List (UL)
      3. Description List (DL)
 
 6. What is HTML Marquee Tag?
-Ans. deprecated in HTML5, moves the text from left to right or right to left like animation
+Ans. Not Supported in HTML5, moves the text from left to right or right to left like animation.
+
+7. What is HTML Preformatted text?
+Ans. Not Supported in HTML5. The <pre> tag defines preformatted text. Text in a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+
+8. What is HTML HR Tag?
+Ans. The <pre> tag defines preformatted text. Text in a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
