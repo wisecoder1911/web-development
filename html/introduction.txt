@@ -6,3 +6,16 @@ Ans. Website/ Web Pages, Career as a Web Designer, Mobile Application Developmen
 
 3. Which version? HTML or HTML5?
 Ans. HTML5 is the latest version of HTML.
+
+4. HTML Text Formatting Tags?
+Ans. 1. Headings (h1, h2, h3, h4, h5, h6)
+     2. Paragraphs (p)
+     3. Bold (b)
+     4. Italic (i)
+     5. Underline (u)
+     6. StrikeThrough (s)
+     7. Sub Script (sub)
+     8. Super Script (sup)
+     9. Break (br)
+     10. Non-Breaking Space (&nbsp)
+     11. Font Tag (Color(any color), Size(1-7), Face(font style))
