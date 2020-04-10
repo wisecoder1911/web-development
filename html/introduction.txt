@@ -34,4 +34,7 @@ Ans. Not Supported in HTML5, moves the text from left to right or right to left 
 Ans. Not Supported in HTML5. The <pre> tag defines preformatted text. Text in a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
 
 8. What is HTML HR Tag?
-Ans. The <pre> tag defines preformatted text. Text in a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks.
+Ans. The <hr> tag defines a thematic break in an HTML page (e.g. a shift of topic). The <hr> element is used to separate content (or define a change) in an HTML page.
+
+9. What is HTML Image Tag?
+Ans. The <img> tag defines an image in an HTML page. The <img> tag has two required attributes: src and alt.
