@@ -26,3 +26,6 @@ Ans. 1. Unordered List (UL)
      2. Ordered List (OL)
         types of OL : 1, A, a, I, i
      3. Description List (DL)
+
+6. What is HTML Marquee Tag?
+Ans. deprecated in HTML5, moves the text from left to right or right to left like animation
